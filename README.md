@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
    ```bash
    python predict.py 
    ```
-   You can try different images and models. For different models, you can refer to the options available at ImageAI's Model Zoo. Make sure to download the models and place them in the appropriate directory.
+   You can try different images and models. For different models, you can refer to the options available at [ImageAI's Model Zoo](https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Classification). Make sure to download the models and place them in the appropriate directory.
 
 ## Acknowledgements
 Special thanks to [@aneagoie](https://github.com/aneagoie) for the comprehensive course that inspired this project.

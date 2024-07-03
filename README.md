@@ -1,6 +1,4 @@
-Sure! Here's a refined version of your README section that provides clear information and proper formatting:
 
-```markdown
 # ReallySmartBrain
 
 ReallySmartBrain is a mini project I enjoyed working on as part of [@aneagoie's The Complete Python Developer in 2023: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) course.

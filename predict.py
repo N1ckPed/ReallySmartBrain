@@ -11,5 +11,5 @@ prediction.loadModel()
 
 predictions, probabilities = prediction.classifyImage(os.path.join(exec_path,'house.jpg'), result_count=5)
 for each_pred, each_prob in zip(predictions, probabilities):
-    print(f'{each_red} : {each_prob}')
+    print(f'{each_pred} : {each_prob}')
 
